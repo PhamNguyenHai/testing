@@ -6,4 +6,4 @@ TXT
 hfdasfdasf
 TXT
 fdasfdas
-update fdfas 2
+update fdfas 2 4 6
