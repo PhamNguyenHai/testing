@@ -2,4 +2,4 @@ Xin chào
 Đây là 01_5 Copy update 1
 hehe
 TXT
-update 2 3
+update 2 3 5 5 6
