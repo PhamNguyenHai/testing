@@ -1,4 +1,4 @@
 Xin chào
 Đây là 01_4 Copy
 TXT 2 4
-TXT 2 4 6 8
+TXT 2 4 6 8 10
